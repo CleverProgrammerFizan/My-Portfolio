@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Fizan",
+    "occupation": "CEO of Fizan's Vlog",
+    "description": "Programming is never a Skill it's a Power",
+    "image": "Profile.jpg",
+    "bio": "Hi there! I am Fizan Bin Faisal! You might also know me as CleverProgrammerFizan. I've been coding for over 2 years now. As a begenner I've worked both with large and small Projects to enhance my skills. Along the journey I realised my passion existed in helping others to create the websites and application in there mind and I also help others to be a good programmer. With this passion, I have created more than 15 Small and large Projects along this years. Through Youtube Programming courses I have Learned to bring my ideas come to life. I deliver REAL VALUE by Bringing REAL WORLD projects to help My Clients to bring thier idea's come to life. You’ll get the exact thing that is on your mind without any pain.",
+    "contactmessage": "Get in touch with me to be a part of my Journey!",
+    "email": "amefizthepubgpro@gmail.com",
+    "phone": "7025153798",
+    "address": {
+      "street": "Pulimoottil Road",
+      "city": "Pathanamthitta",
+      "state": "Kerala",
+      "zip": "689645"
+    },
+    "website": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/CleverProgrammerFizan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCJK-the0DTp3w9HWfFX8pdQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_.fizan_s_photography._/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/CleverProgrammerFizan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Madonna International Residential School",
+        "degree": "Class 8",
+        "description": "Have a Long trip to be graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "CleverProgrammerFizan",
+        "title": "Founder and CEO",
+        "years": "February 23, 2018 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building and enhancing my skills as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://e-clone-8a8cf.web.app/"
+      },
+      {
+        "title": "Facebook Messenger (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://messenger-35adb.web.app/"
+      },
+      {
+        "title": "NETFLIX CLONE (React Js/ Redux)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://netflix-clone-ffd11.web.app/"
+      },
+      {
+        "title": "Spotify CLONE (In Construction)",
+        "category": "",
+        "image": "Spotify.png",
+        "url": ""
+      },
+      {
+      "title": "Covid-19 Tracker (React JS)",
+      "category": "",
+      "image": "Covid_Tracker.jpg",
+      "url": "https://covid-19-tracker-1a429.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Fizan's work has blown my mind at this age no one can do better as him... ",
+        "user": "Faisal Abdul Rasheed"
+      },
+      {
+        "text": "Fizan is the most smart student I have ever seen in my whole carrier I have never seen a kid who is that smart as him... !",
+        "user": "Smitha Tr"
+      }
+    ]
+  }
+}
