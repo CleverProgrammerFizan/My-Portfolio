@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "Fizan",
-    "occupation": "CEO of Fizan's Vlog",
+    "name": "Fizan Bin Faisal",
+    "occupation": "CEO of Programming Brewed",
     "description": "Programming is never a Skill it's a Power",
     "image": "Profile.jpg",
-    "bio": "Hi there! I am Fizan Bin Faisal! You might also know me as CleverProgrammerFizan. I've been coding for over 2 years now. As a begenner I've worked both with large and small Projects to enhance my skills. Along the journey I realised my passion existed in helping others to create the websites and application in there mind and I also help others to be a good programmer. With this passion, I have created more than 15 Small and large Projects along this years. Through Youtube Programming courses I have Learned to bring my ideas come to life. I deliver REAL VALUE by Bringing REAL WORLD projects to help My Clients to bring thier idea's come to life. You’ll get the exact thing that is on your mind without any pain.",
-    "contactmessage": "Get in touch with me to be a part of my Journey!",
-    "email": "amefizthepubgpro@gmail.com",
-    "phone": "7025153798",
+    "bio": "Hi there! I am Fizan Bin Faisal! You might also know me as CleverProgrammerFizan. I've been coding for over 3 years now. As a beginner I've worked both with large and small Projects to enhance my skills. Along the journey I realised my passion existed in helping others to create the websites and application in there mind and I also help others to be a good programmer. With this passion, I have created more than 15 Small and large Projects along this years. Through Youtube Programming courses I have Learned to bring my ideas come to life. I deliver REAL VALUE by Bringing REAL WORLD projects to help My Clients to bring thier idea's come to life. You’ll get the exact thing that is on your mind without any pain.",
+    "contactmessage": "Get in touch with me",
+    "email": "fizanofficial@hotmail.com",
+    "phone": "+91 7025153798",
     "address": {
-      "street": "Pulimoottil Road",
+      "street": "Pulimoottil Road Pettah, Pathanamthitta Town",
       "city": "Pathanamthitta",
       "state": "Kerala",
       "zip": "689645"
@@ -18,7 +18,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/CleverProgrammerFizan/",
+        "url": "https://www.facebook.com/fizantheprogrammer/",
         "className": "fa fa-facebook"
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/_.fizan_s_photography._/",
+        "url": "https://www.instagram.com/__.fizan.__/",
         "className": "fa fa-instagram"
       },
       {
@@ -39,10 +39,10 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Skills & Programming Language Proficiency",
     "education": [
       {
-        "school": "Madonna International Residential School",
+        "school": "Mar Thoma Higher Secondary School",
         "degree": "Class 8",
         "description": "Have a Long trip to be graduated"
       }
@@ -58,7 +58,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "98%"
       },
       {
         "name": "Python",
@@ -66,15 +66,23 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
-        "level": "65%"
+        "level": "92%"
       },
       {
         "name": "Web Development",
-        "level": "85%"
+        "level": "98%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "VS CODE",
+        "level": "100%"
       }
     ]
   },
@@ -99,28 +107,10 @@
         "url": "https://netflix-clone-ffd11.web.app/"
       },
       {
-        "title": "Spotify CLONE (In Construction)",
-        "category": "",
-        "image": "Spotify.png",
-        "url": ""
-      },
-      {
       "title": "Covid-19 Tracker (React JS)",
       "category": "",
       "image": "Covid_Tracker.jpg",
       "url": "https://covid-19-tracker-1a429.web.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Fizan's work has blown my mind at this age no one can do better as him... ",
-        "user": "Faisal Abdul Rasheed"
-      },
-      {
-        "text": "Fizan is the most smart student I have ever seen in my whole carrier I have never seen a kid who is that smart as him... !",
-        "user": "Smitha Tr"
       }
     ]
   }
