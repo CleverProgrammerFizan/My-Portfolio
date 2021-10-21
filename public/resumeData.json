@@ -111,7 +111,13 @@
       "category": "",
       "image": "Covid_Tracker.jpg",
       "url": "https://covid-19-tracker-1a429.web.app/"
-      }
+      },
+      {
+        "title": "QOT Random-Quote-Generator (React JS)",
+        "category": "",
+        "image": "QOT.jpg",
+        "url": "https://qot-personal-project.herokuapp.com/"
+        }
     ]
   }
 }

@@ -821,6 +821,7 @@ call-to-action .button {
    font-size: 15px;
    line-height: 24px;
    width: 65%;
+   border-radius: 5px;
 }
 #contact input:focus,
 #contact textarea:focus,
@@ -837,7 +838,7 @@ call-to-action .button {
    cursor: pointer;
    height: auto;
    display: inline-block;
-	border-radius: 3px;
+	border-radius: 10px;
    margin-left: 26%;
 }
 #contact button.submit:hover {
