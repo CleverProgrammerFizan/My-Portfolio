@@ -57,11 +57,23 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Visual Studio Code",
+        "level": "100%"
+      },
+      {
+        "name": "Web Development",
+        "level": "98%"
+      },
+      {
+        "name": "React JS",
         "level": "98%"
       },
       {
         "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
         "level": "95%"
       },
       {
@@ -73,16 +85,8 @@
         "level": "92%"
       },
       {
-        "name": "Web Development",
-        "level": "98%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "VS CODE",
-        "level": "100%"
+        "name": "Linux",
+        "level": "90%"
       }
     ]
   },
@@ -95,13 +99,13 @@
         "url": "https://e-clone-8a8cf.web.app/"
       },
       {
-        "title": "Facebook Messenger (React JS)",
+        "title": "Facebook Messenger (React JS, MUI)",
         "category": "",
         "image": "gmail.jpg",
         "url": "https://messenger-35adb.web.app/"
       },
       {
-        "title": "NETFLIX CLONE (React Js/ Redux)",
+        "title": "NETFLIX CLONE (React Js, Redux)",
         "category": "",
         "image": "linkedin.jpg",
         "url": "https://netflix-clone-ffd11.web.app/"
@@ -117,6 +121,12 @@
         "category": "",
         "image": "QOT.jpg",
         "url": "https://qot-personal-project.herokuapp.com/"
+      },
+      {
+        "title": "Google Drive Clone (React JS, MUI)",
+        "category": "",
+        "image": "drive.png",
+        "url": "https://google-drive-clone-react.netlify.app/"
         }
     ]
   }
