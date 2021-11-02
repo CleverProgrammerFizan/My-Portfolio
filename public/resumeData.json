@@ -94,40 +94,46 @@
     "projects": [
       {
         "title": "Amazon clone (React JS)",
-        "category": "",
+        "category": "Builded",
         "image": "snapchat.jpg",
         "url": "https://e-clone-8a8cf.web.app/"
       },
       {
         "title": "Facebook Messenger (React JS, MUI)",
-        "category": "",
+        "category": "Builded",
         "image": "gmail.jpg",
         "url": "https://messenger-35adb.web.app/"
       },
       {
         "title": "NETFLIX CLONE (React Js, Redux)",
-        "category": "",
+        "category": "Builded",
         "image": "linkedin.jpg",
         "url": "https://netflix-clone-ffd11.web.app/"
       },
       {
       "title": "Covid-19 Tracker (React JS)",
-      "category": "",
+      "category": "Builded",
       "image": "Covid_Tracker.jpg",
       "url": "https://covid-19-tracker-1a429.web.app/"
       },
       {
         "title": "QOT Random-Quote-Generator (React JS)",
-        "category": "",
+        "category": "Builded",
         "image": "QOT.jpg",
         "url": "https://qot-personal-project.herokuapp.com/"
       },
       {
         "title": "Google Drive Clone (React JS, MUI)",
-        "category": "",
+        "category": "Builded",
         "image": "drive.png",
         "url": "https://google-drive-clone-react.netlify.app/"
-        }
+      },
+      {
+        "title": "Typing Test (TypeScript)",
+        "category": "Contributed",
+        "image": "Typing-Test.png",
+        "url": "https://salmannotkhan.github.io/typing-test/"
+      }
     ]
   }
 }
